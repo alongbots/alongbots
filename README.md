@@ -1,6 +1,5 @@
-<video src="https://files.catbox.moe/pzkene.mp4" width="400" controls autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://files.catbox.moe/08ouh3.jpg)](https://files.catbox.moe/pzkene.mp4)
+
 
 
 # Hi 👋🏽 IAM ALONGWALLING
