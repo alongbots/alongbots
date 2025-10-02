@@ -1,4 +1,7 @@
-(https://files.catbox.moe/pzkene.mp4)
+<video src="https://files.catbox.moe/pzkene.mp4" width="400" controls autoplay loop muted>
+  Your browser does not support the video tag.
+</video>
+
 
 # Hi 👋🏽 IAM ALONGWALLING
 ### I am learning the language of the future—Python, JavaScript, and beyond—exploring the art of code, the logic of algorithms, and the secrets of ethical hacking. Every day I dive deeper, crafting new ideas, solving puzzles, and turning imagination into digital reality. I am a student of the infinite, a creator of the unseen, and a wanderer in the world of endless possibilities
